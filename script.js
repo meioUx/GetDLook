@@ -30,4 +30,4 @@ function createInkSpot() {
 }
 
 // Gerar manchas continuamente
-setInterval(createInkSpot, 1000); // Adiciona uma mancha a cada 2 segundos
+setInterval(createInkSpot, 500); // Adiciona uma mancha a cada 2 segundos
